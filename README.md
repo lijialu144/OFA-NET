@@ -25,7 +25,7 @@ tqdm==4.66.6</code></pre>
 ### Dataset 
 UTRNet dataset is used for experiments, Please down them in the following way.<br>
 
-UTRNet dataset: https://github.com/thebinyang/UTRNet<br>
+The UTRNet dataset original image can be download: https://github.com/thebinyang/UTRNet<br>
 
 The UTRNet dataset used in our paper after processing can be download: 
 
