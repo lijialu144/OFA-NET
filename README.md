@@ -40,7 +40,7 @@ python Test_OFA_Net.py</code></pre>
 ### Test our trained model results
 you can directly test our model by our provided training weights in best_model. 
 
-<pre><code id="copy-text">save_path = best_model + 'UTRNet_OFANet.pth'</code></pre>
+<pre><code id="copy-text">save_path = best_model + 'UTRNet_OFA_Net.pth'</code></pre>
 
 ### Citation 
 if you use this code for your research, please cite our papers. 
